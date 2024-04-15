@@ -15,8 +15,10 @@
   aframe-react module
   aframe npm module
 
-# To install React package:
+# To install packages:
   npx create-react-app my-app
+  npm i aframe
+  npm i aframe-react
 
 
 
